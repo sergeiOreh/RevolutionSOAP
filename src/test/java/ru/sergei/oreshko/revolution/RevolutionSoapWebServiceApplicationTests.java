@@ -1,4 +1,4 @@
-package ru.sergei.oreshko.revolutionsoapwebservice;
+package ru.sergei.oreshko.revolution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package ru.sergei.oreshko.revolutionsoapwebservice;
+package ru.sergei.oreshko.revolution;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

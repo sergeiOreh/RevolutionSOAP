@@ -1,7 +1,7 @@
 HELP.md
 target/*
+!target/generated-sources/jaxb/io/spring/guides/gs_producing_web_service/*
 !.mvn/wrapper/maven-wrapper.jar
-!**/jaxb/*
 
 
 ### IntelliJ IDEA ###
